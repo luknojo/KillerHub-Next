@@ -124,8 +124,11 @@ This is intentionally lighter than Wappalyzer. It is designed to be understandab
 ## Roadmap
 
 - Add robots.txt awareness mode.
-- Add authentication profiles using exported cookies.
 - Add Playwright-based DOM XSS checks for local labs.
 - Expand technology fingerprints with a local rules file.
 - Add unit tests with a small intentionally vulnerable local app.
 - Add SARIF export for GitHub code scanning style workflows.
+
+
+<img width="1893" height="897" alt="image" src="https://github.com/user-attachments/assets/c5d36c7c-4a5f-4272-b9cb-79a2bbc4cc55" />
+
