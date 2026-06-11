@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+lab-report.json
+lab-report.html
+killerhub-report.json
+reports/
+lab.db
